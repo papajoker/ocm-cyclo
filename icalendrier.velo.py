@@ -53,15 +53,15 @@ if len(sys.argv) > 1:  # and sys.argv[1].lower() == 'now':
 
 cal_name = f"OCM Cyclo {' '.join(sys.argv[1:]).replace('--', '').strip()}"
 
-calendar = Calendar(creator="OCM//fr")
+calendar = Calendar(creator="-//OCM//fr")
 calendar.extra.append(ContentLine(name="X-WR-CALNAME", value=cal_name))
-calendar.extra.append(ContentLine(name="NAME", value=cal_name))
 calendar.extra.append(ContentLine(name="X-WR-CALDESC", value=f"Calendier des sorties classiques 2025 {cal_name}"))
 calendar.extra.append(ContentLine(name="LOCATION", value="Montauban-de-Bretagne, 35360 Montauban-de-Bretagne, France"))
 
-
+calendar.extra.append(ContentLine(name="CALSCALE", value="GREGORIAN"))
 calendar.extra.append(ContentLine(name="X-WR-TIMEZONE", value=tz_str))
 calendar.extra.append(ContentLine(name="METHOD", value="PUBLISH"))
+calendar.extra.append(ContentLine(name="NAME", value=cal_name))
 """
 calendar.extra.append(ContentLine(
     name="X-WR-TIMEZONE",

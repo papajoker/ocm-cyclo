@@ -1,12 +1,13 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:OCM Cyclo samedi
-NAME:OCM Cyclo samedi
 X-WR-CALDESC:Calendier des sorties classiques 2025 OCM Cyclo samedi
 LOCATION:Montauban-de-Bretagne, 35360 Montauban-de-Bretagne, France
+CALSCALE:GREGORIAN
 X-WR-TIMEZONE:Europe/Paris
 METHOD:PUBLISH
+NAME:OCM Cyclo samedi
 VERSION:2.0
-PRODID:OCM//fr
+PRODID:-//OCM//fr
 BEGIN:VEVENT
 DESCRIPTION:<em>746</em> -    57 km (grand)\n\nMONTAUBAN – D71 – LANDUJAN – à droite et aussitôt à gauche D21 – IRODOUËR – à droite et à gauche D21 - ROMILLE - D21 - ST GILLES - D21 - L'HERMITAGE – D287 (direction Mordelles) – à droite D68 – à droite D34 - CINTRE - D35 - TALENSAC - D62 - MONTFORT/MEU - D125 - D61 - MONTAUBAN\nhttps://www.openrunner.com/route-details/6989294<hr>\n<em>747</em> -    45 km (moyen)\n\nMONTAUBAN – D71 – LANDUJAN – à droite et aussitôt à gauche D21 – IRODOUËR – à droite et à gauche D21 - ROMILLE - D68 - PLEUMELEUC – D421 (direction Clayes) - après 1\,5 km\, à droite VC- La Daviais - passer sous 4 voies - D68 – BRETEIL – à droite D125 – MONTFORT/MEU - D125 - D61 - MONTAUBAN<hr>\n<em>748</em> -    36 km (petit)\n\nMONTAUBAN – D71 – LANDUJAN – à droite et aussitôt à gauche D21 – IRODOUËR – à droite D72 – BEDEE (centre) – D72 (direction Montfort) – 1ère à droite VC (direction La Nouaye) - Blavon – au carrefour\, à gauche D62 (direction Montfort) - à droite D125 - D61 - MONTAUBAN<hr>\n
 DURATION:PT2H30M
@@ -14,7 +15,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250125T130000Z
 SUMMARY:OCM Cyclo: 746 -  57 km
-UID:97327c7a-fa88-443b-adc6-2ee9b69867a8@9732.org
+UID:5089f2a4-7f8b-494c-84d6-070e1f4cb073@5089.org
 URL:https://www.openrunner.com/route-details/6989294
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +25,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250201T130000Z
 SUMMARY:OCM Cyclo: 701 -  60 km
-UID:97da1323-567c-4642-9450-1fdf4d949ca7@97da.org
+UID:225689ad-8f84-47af-b1f6-19dc51805213@2256.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>6</em> -    55 km (grand)\n\nMONTAUBAN - D71 - LANDUJAN – à gauche D21 - MEDREAC – à droite D220 - D20 - Chau de Caradeuc - à droite D70 - IRODOUËR - D72 - BEDEE (centre) - à gauche et à droite VC (direction Breteil) - La Grande Porte - à droite D125 - MONTFORT/MEU - D125 - D61 - MONTAUBAN\nhttps://www.openrunner.com/route-details/6864737<hr>\n<em>7</em> -    46 km (moyen)\n\nMONTAUBAN - D71 - LANDUJAN - D71 – D20 - Ch au de Caradeuc - à droite D70 - IRODOUËR - D72 - BEDEE (centre) - à gauche et à droite VC (direction Breteil) - La Grande Porte - à droite D125 - MONTFORT/MEU - D125 - D61 - MONTAUBAN<hr>\n<em>8</em> -    34 km (petit)\n\nMONTAUBAN - D71 - LANDUJAN - à droite D21 - IRODOUËR – à droite D72 - BEDEE (centre) - à droite D31 (direction Iffendic) - à droite D125 (direction Boisgervilly) - D61 - MONTAUBAN<hr>\n
@@ -33,7 +34,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250208T130000Z
 SUMMARY:OCM Cyclo: 6 -  55 km
-UID:5e86d388-90ec-4615-9d91-97f346180dbd@5e86.org
+UID:2e6c6bdd-a38e-42f9-a568-b4d1191cd1c5@2e6c.org
 URL:https://www.openrunner.com/route-details/6864737
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +44,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250215T130000Z
 SUMMARY:OCM Cyclo: 56 -  61 km
-UID:4cd54219-b940-4650-9222-fdd2957ef739@4cd5.org
+UID:b7eeed9d-3d7e-44ad-9e00-86cfe394fb02@b7ee.org
 URL:https://www.openrunner.com/route-details/6806098
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +54,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250222T130000Z
 SUMMARY:OCM Cyclo: 671 -  64 km
-UID:6e766618-de6f-4083-a5f2-887c6660c84b@6e76.org
+UID:af4ee08a-58b1-4c81-bc34-0140600e9548@af4e.org
 URL:https://www.openrunner.com/route-details/5708317
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +64,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250301T130000Z
 SUMMARY:OCM Cyclo: 431 -  66 km
-UID:a28e848a-b316-4128-8945-948dd8bbb8a8@a28e.org
+UID:9d630d62-0703-4ff0-8d87-81efb3b53bd9@9d63.org
 URL:https://www.openrunner.com/route-details/5767096
 END:VEVENT
 BEGIN:VEVENT
@@ -73,7 +74,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250308T130000Z
 SUMMARY:OCM Cyclo: 41 -  70 km
-UID:99459152-e539-45a1-b12c-f81e50c6c699@9945.org
+UID:25cc068a-97a6-4a2b-bfa7-c88c1bddf93c@25cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>471</em> -    72 km (grand)\n\nMONTAUBAN – D61 – D261 – ST UNIAC – D261 – à gauche D31 – BEDEE – D31 – D68 – PLEUMELEUC – D68 – ROMILLE – VC – LA CHLLE CHAUSSEE – D81 – ST BRIEUC DES IFFS – D81 – TINTENIAC – à gauche et encore à gauche aux feux D20 ––après la 4 voie a droite (dir trimer)- au stop à gauche –D79 – (dir la baussaine)- la gilaudais -1er à droite- le hil – à gauche trehel-  à droite ( dir longaulnay)-1er à gauche (lieu-dit le laurier)- la barre– BECHEREL – D20 (direction Médréac) – D220 – à droite D20 – ST PERN – D20 – D12 – PLOUASNE – 2ème à gauche D25 – GUITTE – à gauche D89 – D61 – MEDREAC – D61 (direction Montauban) et 1ère à gauche D21 – LANDUJAN – à droite D71 – MONTAUBAN\nhttps://www.openrunner.com/route-details/6716057<hr>\n<em>472</em> -    58 km (moyen)\n\nMONTAUBAN – D61 – D261 – ST UNIAC – D261 – à gauche D31 – BEDEE – D31 – D68 – PLEUMELEUC – D68 – ROMILLE – VC – LA CHLLE CHAUSSEE – D81 – ST BRIEUC DES IFFS – D81 – TINTENIAC – à gauche et encore à gauche aux feux D20 après la 4 voie a droite (dir trimer)- au stop à gauche –D79 – (dir la baussaine)- la gilaudais -1er à droite- le hil – à gauche trehel-  à droite ( dir longaulnay)-1er à gauche (lieu-dit le laurier)- la barre– –– BECHEREL – D20 (direction Médréac) – D220 -  à gauche au niveau de St Pern\, D62 – LANDUJAN – à droite D71 – MONTAUBAN<hr>\n<em>473</em> -    41 km (petit)\n\nMONTAUBAN – D61 – D261 – ST UNIAC – D261 – à gauche D31 – BEDEE – D31 – D68 – PLEUMELEUC – D68 – ROMILLE – D21 (direction Irodouër) – à droite D68 – MINIAC S/S BECHEREL – à gauche D220 (direction St Pern) – traverser D70 – D220 – 1ère à gauche D71 – LANDUJAN – D71 – MONTAUBAN<hr>\n
@@ -82,7 +83,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250315T130000Z
 SUMMARY:OCM Cyclo: 471 -  72 km
-UID:bc39f186-4e13-4e70-b674-5f0546360ae7@bc39.org
+UID:9b9cd2aa-b407-4bb4-b515-8c3d51cda92c@9b9c.org
 URL:https://www.openrunner.com/route-details/6716057
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +93,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250322T130000Z
 SUMMARY:OCM Cyclo: 451 -  75 km
-UID:ebbd29e1-0c3e-4c7b-8d1f-5bfd1ed9b73e@ebbd.org
+UID:244664cc-6ea3-419c-bae4-427b8d606f45@2446.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>201</em> -    78 km (grand)\n\nMONTAUBAN – D61 – MEDREAC – D61 – D89 – GUITTE – à droite puis à gauche VC – GUENROC – à gauche D90 – D89 – D39 (direction Yvignac) – à droite avant La Croix Guessant (direction «Tessier Viandes ») – 1ère à gauche – traverser D766 – D90 – PLUMAUDAN – D64 – TREBEDAN – D61 – TRELIVAN – D61 (direction Dinan) – LEHON – à droite – D12 – D26 – CALORGUEN – D26 – à gauche D78 – EVRAN – à droite D2 (direction Bécherel) – à gauche D2a – ST JUDOCE – VC – ST THUAL – à droite D70 – LONGAULNAY – D70 – D27 – BECHEREL – D20 – D71 – LANDUJAN – D71 – MONTAUBAN<hr>\n<em>202</em> -    67 km (moyen)\n\nMONTAUBAN – D61 – MEDREAC – D61 – D89 – GUITTE – à droite puis à gauche VC – GUENROC – à droite D90 – D39 – D90 – ST MADEN – à droite VC – à droite D64 – ST JUVAT – à gauche D12 (direction Dinan) – à gauche D78 – TREVRON – à droite et à gauche VC – ST CARNE – à gauche D26a – à droite VC – LEHON – à droite D12 – D26 – CALORGUEN – D26 – à gauche D78 – EVRAN – à droite D2 (direction Bécherel) – à gauche D2a – ST JUDOCE – VC – ST THUAL – à droite D70 – LONGAULNAY – D70 – D27 – BECHEREL – D20 – D71 – LANDUJAN – D71 – MONTAUBAN<hr>\n<em>203</em> -    49 km (petit)\n\nMONTAUBAN – D61 – MEDREAC – D61 – D89 – GUITTE – à droite puis à gauche VC – GUENROC – à droite D90 – à droite D39 – TREFUMEL – D39 – LE QUIOU – à droite D26 (direction St Domineuc) – traverser D2 – D13 – à droite VC – ST THUAL – à droite D70 – LONGAULNAY – D70 – D27 – BECHEREL – D20 – D71 – LANDUJAN – D71 – MONTAUBAN<hr>\n
@@ -101,7 +102,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250329T130000Z
 SUMMARY:OCM Cyclo: 201 -  78 km
-UID:2221d1d6-80b2-4ff9-bda4-5264b06ae2f6@2221.org
+UID:232ab29a-c87a-4dfd-a79e-120cba034c3d@232a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>91</em> -    74 km (grand)\n\nMONTAUBAN – D61 – BOISGERVILLY – D71 – ST MAUGAN – D71 – ST MALON/MEL – D59 – PLELAN LE GD – à gauche puis à droite D38 – MAXENT – à gauche D63 – TREFFENDEL – à gauche D36 – ST PERAN – D35 – D72 – MONTFORT/MEU – D30 – IFFENDIC – à droite D31 (direction Bédée) – traverser D125 – à gauche D261 – ST UNIAC – D261 – D61 – MONTAUBAN<hr>\n<em>92</em> -    56 km (moyen)\n\nMONTAUBAN – D61 – BOISGERVILLY – D71 – ST MAUGAN – D71 – ST MALON/MEL – D59 (direction Plélan) – Coganne – à gauche D40 – au stop\, à gauche D40 – ST PERAN – D35 – MONTFORT/MEU – D30 – IFFENDIC - à droite D31 (direction Bédée) – à gauche D261 – ST UNIAC – D261 – D61 – MONTAUBAN<hr>\n<em>93</em> -    41 km (petit)\n\nMONTAUBAN – D61 – BOISGERVILLY – D71 – ST MAUGAN – D71 – ST MALON/MEL – à gauche VC – La Ville es Pollets – à droite VC (direction St Péran) – à gauche D61 - IFFENDIC - à droite D31 (direction Bédée) – à gauche D261 – ST UNIAC – D261 – D61 – MONTAUBAN<hr>\n
@@ -110,7 +111,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250405T120000Z
 SUMMARY:OCM Cyclo: 91 -  74 km
-UID:5b012a5b-b295-4064-a714-06e141388ad8@5b01.org
+UID:7a8a5b6b-e572-41b0-ad14-0fe9773f8757@7a8a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>106</em> -    74 km (grand)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – ST MEEN LE GD – D220 – D66 - LE LOSCOUET/MEU\, à droite (direction Trémorel) et à gauche dans le bourg – à droite avant l’étang VC (direction Plumaugat) – au rond point D764 (direction Plumaugat) – passer sous 4 voies - D76 - ST LAUNEUC - D793 - MERDRIGNAC - D6 - ILLIFAUT - à gauche D66 (direction Le Loscouët) puis 1ère à droite VC - traverser D52 – D258 - GAËL - D30 - MUEL - D30 - ST MAUGAN - D71 - BOISGERVILLY - D61 - MONTAUBAN<hr>\n<em>107</em> -    55 km (moyen)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – ST MEEN LE GD – D220 – D66 - LE LOSCOUET/MEU - D66 (direction Illifaut) - 1km avant Illifaut\, prendre à gauche VC (direction Gaël) - traverser D52 - D258 - GAËL - D30 - MUEL - D30 - ST MAUGAN - D71 - BOISGERVILLY - D61 - MONTAUBAN<hr>\n<em>108</em> -    43 km (petit)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – ST MEEN LE GD – D220 – D66 - LE LOSCOUET/MEU - D66 (direction Illifaut) puis à gauche D58 - GAËL - D30 - MUEL - D30 - ST MAUGAN - D71 - BOISGERVILLY - D61 - MONTAUBAN<hr>\n
@@ -119,7 +120,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250412T120000Z
 SUMMARY:OCM Cyclo: 106 -  74 km
-UID:74eaeea4-83e9-4869-9020-d550777e819f@74ea.org
+UID:c254e23c-eba7-451e-b7a9-4faac77de62b@c254.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>111</em> -    81 km (grand)\n\nMONTAUBAN – D61 – IFFENDIC – D30 – MONTFORT/MEU – D62 – TALENSAC – D62 – BREAL S/S MONTFORT – 2ème à droite D62 – GOVEN – à gauche à la sortie du bourg et aussitôt à droite D44 (direction Bruz) – à gauche D21 – CHAVAGNE – 1ère à gauche VC – à gauche D34 – MORDELLES – à gauche et à droite aux feux D34 – CINTRE – à gauche D687 – D30 – LA CHLLE THOURAULT (à gauche à l’entrée du bourg) – VC – La Pierre Blanche – traverser D125 - VC – ST GILLES – D21 (direction Romillé) – à gauche D421 – CLAYES – D421 – PLEUMELEUC – D68 – D31 – BEDEE (centre) – D31 – à droite D261 – ST UNIAC – D261 – D61 – MONTAUBAN<hr>\n<em>112</em> -    66 km (moyen)\n\nMONTAUBAN – D61 – IFFENDIC – D30 – MONTFORT/MEU – D62 – TALENSAC – D62 – BREAL S/S MONTFORT – VC – MORDELLES – D34 – CINTRE – à gauche D68 – D30 – LA CH LLE THOURAULT (à gauche à l’entrée du bourg) – VC – La Pierre Blanche – traverser D125 - VC – ST GILLES – D21 (direction Romillé) – à gauche D421 – CLAYES – D421 – PLEUMELEUC – D68 – D31 – BEDEE (centre) – D31 – à droite D261 – ST UNIAC – D261 – D61 – MONTAUBAN<hr>\n<em>113</em> -    53 km (petit)\n\nMONTAUBAN – D61 – IFFENDIC – D30 – MONTFORT/MEU – D125 – BRETEIL – D125 – L’HERMITAGE – à gauche D21 – ST GILLES – D21 – (direction Romillé) – à gauche D421 – CLAYES – D421 – PLEUMELEUC – D68 – D31 – BEDEE (centre) – D31 – à droite D261 – ST UNIAC – D261 – D61 – MONTAUBAN<hr>\n
@@ -128,7 +129,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250419T120000Z
 SUMMARY:OCM Cyclo: 111 -  81 km
-UID:e2c12053-9d1a-430f-9591-58f8de1fffbf@e2c1.org
+UID:ebcd89c1-4f00-42ba-b7fd-3acf0ead4e67@ebcd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>531</em> -    82 km (grand)\n\nMONTAUBAN – D61 – MEDREAC – D61 – D89 – GUITTE - à gauche D25 – CAULNES – à droite et 2ème à gauche D62 – YVIGNAC LA TOUR – D89 – LANGUEDIAS – à gauche D61 – TREDIAS – D39 – à gauche D19 – TREMEUR – D19 – à gauche D712 – BROONS – D793 (direction Eréac) – à gauche D52 – LANRELAS – D52 – TREMOREL – à droite à l’église et 1ère à gauche – VC (direction Le Loscouët/Meu) – traverser D764 – VC (direction Les Buissonnets) – après 2 km\, sur la gauche – LE LOSCOUËT/MEU – D66 – D220 – ST MEEN LE GD – D125 – BOISGERVILLY – D61 – MONTAUBAN\nhttps://www.openrunner.com/route-details/10524174<hr>\n<em>532</em> -    68 km (moyen)\n\nMONTAUBAN – D61 – MEDREAC – D61 – D89 – GUITTE - à gauche D25 – CAULNES – à droite et 1ère à gauche D25 – à droite D712 – BROONS – à gauche D19 – PLUMAUGAT – D19 – D125 – ST MEEN LE GD – D125 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n<em>533</em> -    49 km (petit)\n\nMONTAUBAN – D61 – MEDREAC – D61 – D89 – GUITTE - à gauche D25 – CAULNES – à gauche et à droite D46 – PLUMAUGAT – D19 – D125 – ST MEEN LE GD – D125 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n
@@ -137,7 +138,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250426T120000Z
 SUMMARY:OCM Cyclo: 531 -  82 km
-UID:f4499f0f-de53-4b87-a190-5fd58032194c@f449.org
+UID:d751a4d4-249f-43e0-9b30-bbe40e8670ab@d751.org
 URL:https://www.openrunner.com/route-details/10524174
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +148,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250503T120000Z
 SUMMARY:OCM Cyclo: 711 -  85 km
-UID:7f680418-d9cb-4c3e-940f-627019526374@7f68.org
+UID:89f36aad-2e87-4088-a544-62b6c4879c84@89f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>181</em> -    89 km (grand)\n\nMONTAUBAN – D28 – ROMILLE – D25 – LANGAN – D25 – LANGOUËT – D25 – VIGNOC – D637 – D25 – MONTREUIL LE GAST – D25 – ST GERMAIN/ILLE – à gauche après le bourg D91 – AUBIGNE – D91 – FEINS - à gauche et à droite après église D20 – DINGE – 2ème à gauche D82 (direction Guipel) – à droite D87 – BAZOUGES S/S HEDE – à droite après le bourg D87 – D795 – HEDE – D80 (direction St Gondran) – aussitôt à droite D221 – ST SYMPHORIEN - D221 – ST BRIEUC DES IFFS – à gauche D81 – LA CHLLE CHAUSSEE – VC (direction Romillé) – à droite VC (direction Irodouër) – D221 – IRODOUËR – D21 – LANDUJAN – D71 – MONTAUBAN<hr>\n<em>182</em> -    69 km (moyen)\n\nMONTAUBAN – D28 – ROMILLE – D25 – LANGAN – D25 – LANGOUËT – D25 – VIGNOC – D637 – D25 – MONTREUIL LE GAST – D25 (direction St Germain / Ille) – à gauche D82 – GUIPEL – à gauche D221 – HEDE – D80 (direction St Gondran) – aussitôt à droite D221 – ST SYMPHORIEN - D 21 – ST BRIEUC DES IFFS – à gauche D81 – LA CHLLE CHAUSSEE – VC (direction Romillé) – à droite VC (direction Irodouër) – D221 – IRODOUËR – D21 – LANDUJAN – D71 – MONTAUBAN<hr>\n<em>183</em> -    51 km (petit)\n\nMONTAUBAN – D28 – ROMILLE – D25 – LANGAN – D25 – LANGOUËT – D25 (direction Vignoc) – tout droit VC (direction Hédé) – à gauche D80 – ST GONDRAN – à droite D27 – LA CHLLE CHAUSSEE – à gauche VC (direction Romillé) – à droite VC (direction Irodouër) – D221 – IRODOUËR – D21 – LANDUJAN – D71 – MONTAUBAN<hr>\n
@@ -156,7 +157,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250510T120000Z
 SUMMARY:OCM Cyclo: 181 -  89 km
-UID:d1daaf16-d2fe-4502-8ef5-2e3e33d95d4a@d1da.org
+UID:c49371d4-245f-414c-898c-4d56494138f9@c493.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>171</em> -    87 km (grand)\n\nMONTAUBAN – La Brohinière – D28 (direction Le Crouais) – à droite D59 – QUEDILLAC – D59 – D712 – ST JOUAN DE L’ISLE – D712 (direction Plumaugat) – à droite\, passer au-dessus 4 voies et aussitôt à gauche D712 – BROONS – D25 – SEVIGNAC – D25 – PLENEE JUGON – à gauche D59 – LANGOURLA – à gauche D46 – EREAC – D46 – LANRELAS – D46 – PLUMAUGAT – D19 – D125 – ST MEEN LE GD – D125 – BOISGERVILLY – D61 – MONTAUBAN\nhttps://www.openrunner.com/route-details/8538203<hr>\n<em>172</em> -    69 km (moyen)\n\nMONTAUBAN – La Brohinière – D28 (direction Le Crouais) – à droite D59 – QUEDILLAC – D59 – D712 – ST JOUAN DE L’ISLE – D712 (direction Plumaugat) – à droite\, passer au-dessus 4 voies et aussitôt à gauche D712 – BROONS – D793 - EREAC – D46 – LANRELAS – D46 – PLUMAUGAT – D19 – D125 – ST MEEN LE GD – D125 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n<em>173</em> -    46 km (petit)\n\nMONTAUBAN – La Brohinière – D28 (direction Le Crouais) – à droite D59 – QUEDILLAC – D59 – D712 – ST JOUAN DE L’ISLE – D712 – à gauche D46 – PLUMAUGAT – D19 – D125 – ST MEEN LE GD – D125 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n
@@ -165,7 +166,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250517T120000Z
 SUMMARY:OCM Cyclo: 171 -  87 km
-UID:6c6bccec-4405-4087-8a4c-6bac186a428a@6c6b.org
+UID:78c174af-7273-4534-9cfc-02db181a0add@78c1.org
 URL:https://www.openrunner.com/route-details/8538203
 END:VEVENT
 BEGIN:VEVENT
@@ -175,7 +176,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250524T120000Z
 SUMMARY:OCM Cyclo: 211 -  90 km
-UID:2705436c-518d-4aac-8358-551fd179f0f7@2705.org
+UID:6af3c514-7221-43fc-9728-b0cf453baedd@6af3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>391</em> -    90 km (grand)\n\nMONTAUBAN – D61 – MEDREAC – D89 – GUITTE – VC – GUENROC – à droite D90 – ST MADEN – à droite avant le bourg VC – ST JUVAT – à gauche avant le bourg D64 – PLUMAUDAN – D64 – traverser D793 – D62 – TREBEDAN – (direction Télivan) – 1ère à gauche D62 – LA LANDEC – D62 – ST MAUDEZ – D62 (direction Corseul) – à gauche avant l’entrée de Corseul D44 (direction Jugon Les Lacs) – D19 – à gauche D19 – PLELAN LE PT – traverser D716 – D19 – sur la gauche D89 – LANGUEDIAS – à droite et à gauche D89 – YVIGNAC LA TOUR – D62 – CAULNES – D46 (direction Plumaugat) – à gauche après ligne de chemin de fer\, rue de la Chauvetais – ST JOUAN DE L’ISLE – à gauche D712 – D59 – QUEDILLAC – D59 (direction Le Crouais) – à gauche D28 – La Brohinière – MONTAUBAN<hr>\n<em>392</em> -    69 km (moyen)\n\nMONTAUBAN – D61 – MEDREAC – D89 – GUITTE – VC – GUENROC – à droite D90 – ST MADEN – à droite avant le bourg VC – ST JUVAT – à gauche avant le bourg D64 – PLUMAUDAN – D64 – traverser D793 – D62 – TREBEDAN – à gauche D61 – LANGUEDIAS – à gauche D89 – YVIGNAC LA TOUR – D62 – CAULNES – D46 (direction Plumaugat) – à gauche après ligne de chemin de fer\, rue de la Chauvetais – S T JOUAN DE L’ISLE – à gauche D712 - D59 – QUEDILLAC – D59 (direction Le Crouais) – à gauche D28 – La Brohinière – MONTAUBAN<hr>\n<em>393</em> -    50 km (petit)\n\nMONTAUBAN – D61 – MEDREAC – D89 – GUITTE – VC – GUENROC – à gauche D90 – D89 – D39 – YVIGNAC LA TOUR – à gauche D62 – CAULNES – D46 (direction Plumaugat) – à gauche après ligne de chemin de fer\, rue de la Chauvetais – ST JOUAN DE L’ISLE – à gauche D712 – D59 - QUEDILLAC – D59 (direction Le Crouais) – à gauche D28 – La Brohinière – MONTAUBAN<hr>\n
@@ -184,7 +185,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250531T120000Z
 SUMMARY:OCM Cyclo: 391 -  90 km
-UID:fab5d9d3-fb24-4bd8-83a7-a319123f0c3c@fab5.org
+UID:063059fa-259f-45f9-8207-683aceab0e53@0630.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>411</em> -    92 km (grand)\n\nMONTAUBAN – D61 – D125 – MONTFORT/MEU – D62 – TALENSAC – D62 – BREAL S/S MONTFORT – D62 – GOVEN – à droite D44 (direction Baulon) – à droite D38 – BAULON – à gauche D69 (direction La Chlle Bouëxic) – à droite D776 – LA CH LLE BOUËXIC – D776 (direction Guer) – Laisser la D65 (dir. Campel) et prendre la départementale suivante à droite D61 – PLELAN LE GD – D59 – ST MALON/MEL – D31 – ST GONLAY – D31 – IFFENDIC – D61 – MONTAUBAN<hr>\n<em>412</em> -    70 km (moyen)\n\nMONTAUBAN – D61 – D125 – MONTFORT/MEU – D62 – TALENSAC – D62 – BREAL S/S MONTFORT – à droite D36 – ST THURIAL – D36 – TREFFENDEL – à gauche D36 – ST PERAN – à gauche D40 (direction Plélan) – La Martinais – à droite D40 (direction Paimpont) – Coganne – à droite D59 – ST MALON/MEL – D31 – ST GONLAY – D31 – IFFENDIC – D61 – MONTAUBAN<hr>\n<em>413</em> -    49 km (petit)\n\nMONTAUBAN – D61 – D125 – MONTFORT/MEU – D62 – TALENSAC – à droite D35 (direction Monterfil) – traverser D363 – La Noë Jeannot – à gauche D35 – ST PERAN – D61 (direction Iffendic) – 1ère à gauche VC (direction S t Gonlay) – à droite D31 – IFFENDIC – D61 – MONTAUBAN<hr>\n
@@ -193,7 +194,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250607T120000Z
 SUMMARY:OCM Cyclo: 411 -  92 km
-UID:2b6deba9-3187-452a-8a79-a655dad794ba@2b6d.org
+UID:b5265d8d-74ba-4987-9039-8031b9f710dc@b526.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>291</em> -    95 km (grand)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – ST MEEN LE GD – D125 – D19 – PLUMAUGAT – D46 – LANRELAS – D61 – D76 – ST LAUNEUC – à droite D793 – EREAC – D793 – BROONS – D793 – YVIGNAC – D793 – BRUSVILY – à droite avant église VC – Le Creux – traverser D766 et aussitôt à droite VC – Le Paradis – à droite VC – à gauche D64 – ST JUVAT – D12 – TREFUMEL – à droite D39 (direction Yvignac) – à gauche D90 – GUENROC – VC – GUITTE – D89 – D61 – MEDREAC – D61 – MONTAUBAN<hr>\n<em>292</em> -    75 km (moyen)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – ST MEEN LE GD – D125 – D19 – PLUMAUGAT – D19 – BROONS – D793 – YVIGNAC – D793 – BRUSVILY – à droite avant église VC – Le Creux – traverser D766 et aussitôt à droite VC – Le Paradis – à droite VC – à gauche D64 – ST JUVAT – D12 – TREFUMEL – à droite D39 (direction Yvignac) – à gauche D90 – GUENROC – VC – GUITTE – D89 – D61 – MEDREAC – D61 – MONTAUBAN<hr>\n<em>293</em> -    58 km (petit)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – ST MEEN LE GD – D125 – D19 – PLUMAUGAT – D19 – BROONS – à droite D712 (direction St Jouan de l’Isle) – Recouvrance – à gauche D25 – CAULNES – à gauche et aussitôt à droite VC (direction Guenroc) – à droite D89 – GUITTE – D89 – D61 – MEDREAC – D61 – MONTAUBAN<hr>\n
@@ -202,7 +203,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250614T120000Z
 SUMMARY:OCM Cyclo: 291 -  95 km
-UID:464fcb05-f40c-4605-9352-8477d537a818@464f.org
+UID:9ab011f5-0cc2-41f1-8a64-e77a21e14205@9ab0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>221</em> -    95 km (grand)\n\nMONTAUBAN – D61 – BOISGERVILLY – D71 – ST MAUGAN – D71 – ST MALON / MEL – à droite D31 (direction Concoret) – à gauche D31 (direction concoret) – Chau de Comper – D141 – La Loriette – D2 – CONCORET – D2 – D31 – D2 – MAURON – à gauche et à droite D16 – GUILLIERS – à gauche avant le bourg D154 – à droite D154 – NEANT/YVEL – D154 – TREHORENTEUC – à gauche D141 (direction Mauron) – à droite VC – Folle Pensée – VC – à gauche VC (direction Paimpont) – à gauche D40 – PAIMPONT – D38 (direction Plélan le Gd) – à gauche D40 – Coganne\, tout droit – à gauche D40 – ST PERAN – à gauche D61 – IFFENDIC – D61 – MONTAUBAN<hr>\n<em>222</em> -    70 km (moyen)\n\nMONTAUBAN – D61 – BOISGERVILLY – D71 – ST MAUGAN – D71 – ST MALON / MEL – à droite D31 (direction Concoret) – à gauche D31 (direction Concoret) – Chau de Comper – D141 – La Loriette – D2 – CONCORET – à gauche D141 (direction Tréhorenteuc) – La Saudrais – à gauche D141 – à gauche VC – Folle Pensée – VC – à gauche VC (direction Paimpont) – à gauche D40 – PAIMPONT – D38 (direction Plélan le Gd) – à gauche D40 – à gauche D61 – ST PERAN – à gauche D61 – IFFENDIC – D61 – MONTAUBAN<hr>\n<em>223</em> -    53 km (petit)\n\nMONTAUBAN – D61 – BOISGERVILLY – D71 – ST MAUGAN – D71 – ST MALON / MEL – à droite D31 (direction Concoret) – à gauche D31 (direction Concoret) – Chau de Comper – D141 – La Loriette – à gauche D773 – PAIMPONT – D38 (direction Plélan le Gd) – à gauche D40 – à gauche D61 – ST PERAN – à gauche D61 – IFFENDIC – D61 – MONTAUBAN<hr>\n
@@ -211,7 +212,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250621T120000Z
 SUMMARY:OCM Cyclo: 221 -  95 km
-UID:fa46ea0b-6f09-4f02-a51f-8c107118f301@fa46.org
+UID:2b6ceeaa-1a3c-4f42-874b-c0a0569ca214@2b6c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>791</em> -    99 km (grand)\n\nMONTAUBAN – D61 – BOISGERVILLY – D71 – ST MAUGAN – à droite D30 – MUEL – D30 – GAËL – à gauche dans le bourg VC5 (direction Le Bran) – à droite D31 – Le Bran – à gauche VC – Haligan – à droite D141 – La Saudrais – à gauche D141 – TREHORENTEUC – D141 (direction Ploërmel) – laisser la route indiquant « Loyat – Tregadoret » et prendre la suivante à droite indiquant « Loyat – lesvran » juste avant St Laurent – traverser VC – passer au dessus D766 puis à droite D13 – LOYAT – D13 – GUILLIERS – à droite D16 (direction Mauron) et aussitôt à droite D154 (direction Néant/Yvel) – tout droit D167 – Le Bois de la Roche – sur la gauche D167 – MAURON – à droite et à gauche vers centre ville puis à gauche et à droite – D307 (direction Tremorel) – traverser D303 – D307 – D52 – à droite D66 – LE LOSCOUËT/MEU – D66 – ST MEEN LE GD – D 59 – LE CROUAIS – D28 – La Brohinière – MONTAUBAN<hr>\n<em>792</em> -     ?    (moyen)\n\n?<hr>\n<em>793</em> -     ?    (petit)\n\n?<hr>\n
@@ -220,7 +221,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250628T120000Z
 SUMMARY:OCM Cyclo: 791 -  99 km
-UID:b720c3e4-29a8-421b-af50-9be9c17bcfa3@b720.org
+UID:c3033278-4b40-4173-ab91-7c9d18151a3c@c303.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>331</em> -    96 km (grand)\n\nMONTAUBAN – D61 – IFFENDIC – D61 – ST PERAN – D61 – PLELAN LE GD – à gauche D38 – MAXENT – à droite D63 – LOUTEHEL – D59 – à droite D44 – à droite D772 – GUER – D772 – AUGAN – à droite D134 – CAMPENEAC – à droite D724 (direction Plélan) – à gauche D312 – D40 – PAIMPONT – D71 – à gauche D59 – ST MALON/MEL – D71 – ST MAUGAN – D71 – BOISGERVILLY – D61 – MONTAUBAN\nhttps://www.openrunner.com/route-details/8747146<hr>\n<em>332</em> -    74 km (moyen)\n\nMONTAUBAN – D61 – IFFENDIC – D61 – ST PERAN – D61 – PLELAN LE GD – à gauche D38 – MAXENT – à droite D63 – LOUTEHEL – à droite D59 – LE THELIN – D59 – PLELAN LE G D – à gauche puis à droite D38 – PAIMPONT – D71 – à gauche D59 – ST MALON/MEL – D71 – ST MAUGAN – D71 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n<em>333</em> -    54 km (petit)\n\nMONTAUBAN – D61 – IFFENDIC – D61 – S T PERAN – D61 – PLELAN LE GD – à droite D38 – PAIMPONT – D71 – à gauche D59 – ST MALON/MEL – D71 – ST MAUGAN – D71 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n
@@ -229,7 +230,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250705T120000Z
 SUMMARY:OCM Cyclo: 331 -  96 km
-UID:e9dbd454-e7cc-453c-a37f-3dc0d0f0b12e@e9db.org
+UID:3617c332-64fe-4e99-a7d3-2b7f7c792749@3617.org
 URL:https://www.openrunner.com/route-details/8747146
 END:VEVENT
 BEGIN:VEVENT
@@ -239,7 +240,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250712T120000Z
 SUMMARY:OCM Cyclo: 831 -   ?   
-UID:b11cba2b-73bd-45b7-856c-d098edb2a0da@b11c.org
+UID:5449a8a1-ab4b-4854-b1c1-f320c93081e4@5449.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>281</em> -   103 km (grand)\n\nMONTAUBAN – D61 – BOISGERVILLY – D125 – ST MEEN LE GD – D220 - D66 – LE LOSCOUËT/MEU – D66 – ILLIFAUT – D305 – MENEAC – D793 – LA TRINITE PORHOËT – D793 – MOHON – D8 (direction Ploërmel) – ST MALO DES 3 FONTAINES – à gauche D16 – GUILLIERS – D16 – MAURON – D2 – CONCORET – D2 – La Loriette - D141 – Chau de Comper – D31 – ST MALON/MEL – D71 – ST MAUGAN – D71 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n<em>282</em> -    74 km (moyen)\n\nMONTAUBAN – D61 – BOISGERVILLY – D125 – ST MEEN LE GD – D220 - D66 – LE LOSCOUËT/MEU – D66 – ILLIFAUT – D66 (direction Ménéac) – D305 – à gauche D134 – BRIGNAC – D134 – à gauche D2 – ST BRIEUC DE MAURON – D2 – MAURON – D2 – CONCORET – D2 – La Loriette – D141 – Ch au de Comper – D31 – ST MALON/MEL – D71 – ST MAUGAN – D71 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n<em>283</em> -    55 km (petit)\n\nMONTAUBAN – D61 – BOISGERVILLY – D125 – ST MEEN LE GD – D220 - D66 – LE LOSCOUËT/MEU – D66 (direction Illifaut) – 1ère à gauche VC – D58 – GAËL – D773 (direction Paimpont) – La Loriette – à gauche D141 – Ch au de Comper – D31 – ST MALON/MEL – D71 – ST MAUGAN – D71 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n
@@ -248,7 +249,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250719T120000Z
 SUMMARY:OCM Cyclo: 281 - 103 km
-UID:e46d1924-4e88-4c94-ba69-d833e10c1668@e46d.org
+UID:025b60c6-0556-4124-9154-f4b95fc6862f@025b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>346</em> -   109 km (grand)\n\nMONTAUBAN - D61 - D125 - MONTFORT/MEU -A droite(direction monterfil)-aussitôt a gauche ancienne route de talensac-PISTE CYCLABLE- a droite TALENSAC- a droite –D35( direction st péran) – à gauche (direction LA mare pichot)-c105 au château d’eau- lieu dit loumas a droite - D69 –LE VERGER- a gauche- et a droite (direction st thurial)- a gauche D40-(direction st thurial) –passer sous le pont –a droite cardin carriere- a gauche lieu dit Lavigne –a gauche «  le refour »- a droite -  après le pont a gauche - BREAL S/S MONTFORT - D62 - GOVEN – à droite après le bourg D 39 (direction Guichen) – à gauche D 38 – traverser D 776 – D 38 - GUICHEN - D39 - LAILLE - à droite D77 - BOURG DES COMPTES - D48 - GUIGNEN - à droite D62 - LASSY - D38 - BAULON - D69 - ST THURIAL - D69 – Cossinade - D69 - LE VERGER - D240 - MONTERFIL - D63 - IFFENDIC - D61 - MONTAUBAN\nhttps://www.openrunner.com/route-details/5086515<hr>\n<em>347</em> -    77 km (moyen)\n\nMONTAUBAN - D61 - D125 - MONTFORT/MEU -A droite(direction monterfil)-aussitôt a gauche ancienne route de talensac-PISTE CYCLABLE- a droite TALENSAC- a droite –D35( direction st péran) – à gauche (direction LA mare pichot)-c105 au château d’eau- lieu dit loumas a droite - D69 –LE VERGER- a gauche- et a droite (direction st thurial)- a gauche D40-(direction st thurial) –passer sous le pont –a droite cardin carriere- a gauche lieu dit Lavigne –a gauche «  le refour »- a droite -  après le pont a gauche - BREAL S/S MONTFORT - D62 - GOVEN - à droite D44 (direction Baulon) puis à gauche D62 - LASSY - D38 - BAULON - D69 - ST THURIAL - D69 – Cossinade - D69 - LE VERGER - D240 - MONTERFIL - D63 - IFFENDIC - D61 - MONTAUBAN<hr>\n<em>348</em> -    56 km (petit)\n\nMONTAUBAN - D61 - D125 - MONTFORT/MEU - L'Abbaye - D30 (direction La Chapelle Thouarault) - à droite VC (direction Talensac) - à gauche à l'entrée du bourg (avant la côte\, vers Cintré) – à droite et à gauche D62 (direction Bréal s/s Montfort) – laisser la 1ère route à droite indiquant Le Verger (faire 4.5 km sur la D62) et prendre à droite D240 - LE VERGER - D240 - MONTERFIL - D63 (direction Iffendic) - Les 4 routes d'Iffendic - à droite D35 - MONTFORT/MEU - à gauche D30 - IFFENDIC - D61 - MONTAUBAN<hr>\n
@@ -257,7 +258,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250726T120000Z
 SUMMARY:OCM Cyclo: 346 - 109 km
-UID:7fa1b71d-c95d-4d21-be33-4c40eb7b1752@7fa1.org
+UID:55c2119b-3fd8-496c-bbd1-52503668759a@55c2.org
 URL:https://www.openrunner.com/route-details/5086515
 END:VEVENT
 BEGIN:VEVENT
@@ -267,7 +268,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250802T120000Z
 SUMMARY:OCM Cyclo: 796 -   ?   
-UID:00c12236-840c-4047-9d62-c6a24182c62a@00c1.org
+UID:5f6d8805-ba60-4723-b5c9-8f1ec007fa8a@5f6d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>226</em> -    95 km (grand)\n\nMONTAUBAN - D61 - IFFENDIC - D61 - ST PERAN – D40 (direction Plélan le Gd) – La Martinais - à droite D40 – à droite D38 - PAIMPONT - à gauche D773 - à droite D40 - Beauvais - à droite VC (direction Tréhorenteuc) - à droite VC - Folle Pensée - à gauche D141 - TREHORENTEUC - à droite D154 - NEANT/YVEL - D154 - GUILLIERS - à droite D16 - MAURON - à gauche et à droite D2 - CONCORET – D2 – La Loriette – D141 – Chau de Comper - D31 - ST MALON/MEL - D71 - ST MAUGAN - D71 - BOISGERVILLY - D61 - MONTAUBAN<hr>\n<em>227</em> -    70 km (moyen)\n\nMONTAUBAN - D61 - IFFENDIC - D61 - ST PERAN – D40 (direction Plélan le Gd) – La Martinais - à droite D40 – à droite D38 - PAIMPONT - à gauche D773 - à droite D40 - Beauvais - à droite VC (direction Tréhorenteuc) - à droite VC - Folle Pensée - à droite D141 (direction Mauron) - La Saudrais - à droite D141 - CONCORET – D2 – La Loriette – D141 – Chau de Comper - D31 - ST MALON/MEL - D71 - ST MAUGAN - D71 - BOISGERVILLY - D61 - MONTAUBAN<hr>\n<em>228</em> -    53 km (petit)\n\nMONTAUBAN - D61 - IFFENDIC - D61 - ST PERAN – D40 (direction Plélan le Gd) – La Martinais - à droite D40 – à droite D38 - PAIMPONT - à droite D773 (direction Gaël) – La Loriette - à droite D141 – Chau de Comper - D31 - ST MALON/MEL - D71 - ST MAUGAN - D71 - BOISGERVILLY - D61 - MONTAUBAN<hr>\n
@@ -276,7 +277,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250809T120000Z
 SUMMARY:OCM Cyclo: 226 -  95 km
-UID:69db32d6-5b85-45e1-b03c-e633a2ba31dc@69db.org
+UID:8190b190-009d-4062-affa-7d5fdaa2518a@8190.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>416</em> -    92 km (grand)\n\nMONTAUBAN - D61 - IFFENDIC - D31 - ST GONLAY - D31 - ST MALON/MEL - D59 - PLELAN LE GD (centre) - à gauche D38 (direction Maxent) - passer sur 4 voies et aussitôt à droite D61 – Couédouan - après la Croix Simon\, à gauche D776 - LA CHELLE BOUËXIC - tout droit D776 - à Bel Air\, à gauche D69 - BAULON - à droite D38 (direction Lassy) puis après 2\,5 km\, à gauche D44 - GOVEN - D62 - BREAL S/S MONTFORT - D62 - TALENSAC - D62 - MONTFORT/MEU - D125 - D61 - MONTAUBAN\nhttps://www.openrunner.com/route-details/5188658<hr>\n<em>417</em> -    70 km (moyen)\n\nMONTAUBAN - D61 - IFFENDIC - D31 - ST GONLAY - D31 - ST MALON/MEL - D59 (direction Plélan le Gd) - Coganne - à gauche D40 et à nouveau à gauche D40 - ST PERAN - à droite D36 - TREFFENDEL - à droite D36 - ST THURIAL - D36 - BREAL S/S MONTFORT - D62 - TALENSAC - D62 - MONTFORT/MEU - D125 - D61 - MONTAUBAN<hr>\n<em>417</em> -    70 km (petit)\n\nMONTAUBAN - D61 - IFFENDIC - D31 - ST GONLAY - D31 - ST MALON/MEL - D59 (direction Plélan le Gd) - Coganne - à gauche D40 et à nouveau à gauche D40 - ST PERAN - à droite D36 - TREFFENDEL - à droite D36 - ST THURIAL - D36 - BREAL S/S MONTFORT - D62 - TALENSAC - D62 - MONTFORT/MEU - D125 - D61 - MONTAUBAN<hr>\n
@@ -285,7 +286,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250816T120000Z
 SUMMARY:OCM Cyclo: 416 -  92 km
-UID:c8f5a743-be66-41b9-8e59-bec247235e99@c8f5.org
+UID:64c75221-8611-4842-b83f-7d9b2ad5baaa@64c7.org
 URL:https://www.openrunner.com/route-details/5188658
 END:VEVENT
 BEGIN:VEVENT
@@ -295,7 +296,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250823T120000Z
 SUMMARY:OCM Cyclo: 186 -  89 km
-UID:89f6a7d5-34f1-4374-a5c8-169c6af4af5e@89f6.org
+UID:fa2dd487-44cc-466c-9980-01dc7e89a4ad@fa2d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>521</em> -    85 km (grand)\n\nMONTAUBAN – La Brohinière – D28 (direction Le Crouais) – à droite D59 – QUEDILLAC – D59 – D712 – ST JOUAN DE L’ISLE – D712 (direction Plumaugat) – à droite\, passer au-dessus 4 voies et aussitôt à gauche D712 – BROONS – au rond point\, D712 (direction Sévignac) puis tout droit D712 – ZA des Dineux – à droite VC\, passer sur 4 voies puis à gauche VC (direction Lamballe) - traverser D39 - D60 – DOLO – à gauche D16 – SEVIGNAC – D16 – EREAC – D46 – LANRELAS – D52 – TREMOREL – à droite à l’église et 1ère à gauche – VC (direction Le Loscouët/Meu) – traverser D764 – VC (direction Les Buissonnets) – après 2 km\, sur la gauche – LE LOSCOUËT/MEU – D66 – D220 – ST MEEN LE GD – D59 – LE CROUAIS – D59 – D28 – La Brohinière – MONTAUBAN\nhttps://www.openrunner.com/route-details/5944123<hr>\n<em>522</em> -    63 km (moyen)\n\nMONTAUBAN – La Brohinière – D28 (direction Le Crouais) – à droite D59 – QUEDILLAC – D59 – D712 – ST JOUAN DE L’ISLE – D712 (direction Plumaugat) – à droite\, passer au-dessus 4 voies et aussitôt à gauche D712 – BROONS (centre) – à gauche D793 (direction Eréac) – Le Pont du Breuil – à gauche D52 – LANRELAS – D52 – TREMOREL – à droite à l’église et 1ère à gauche – VC (direction Le Loscouët/Meu) – traverser D764 – VC (direction Les Buissonnets) – après 2 km\, sur la gauche – LE LOSCOUËT/MEU – D66 – D220 – ST MEEN LE G D – D59 – LE CROUAIS – D59 – D28 – La Brohinière – MONTAUBAN<hr>\n<em>523</em> -    50 km (petit)\n\nMONTAUBAN – La Brohinière – D28 (direction Le Crouais) – à droite D59 – QUEDILLAC – D59 – D712 – ST JOUAN DE L’ISLE – D712 (direction Plumaugat) – à gauche D46 – PLUMAUGAT – D46 (direction Lanrelas) et aussitôt à gauche\, VC – La Gautraie – au rond point D764 (direction St Méen) – passer sous 4 voies – VC – LE LOSCOUËT/MEU – D66 – D220 – ST MEEN LE GD – D59 – LE CROUAIS – D59 – D28 – La Brohinière – MONTAUBAN<hr>\n
@@ -304,7 +305,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250830T120000Z
 SUMMARY:OCM Cyclo: 521 -  85 km
-UID:65d6bdd9-e323-4351-aa66-a78b011cf0d3@65d6.org
+UID:74bc9a64-1b23-4064-9688-a9d13fb8c457@74bc.org
 URL:https://www.openrunner.com/route-details/5944123
 END:VEVENT
 BEGIN:VEVENT
@@ -314,7 +315,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250906T120000Z
 SUMMARY:OCM Cyclo: 716 -  85 km
-UID:fc348a39-9632-4bfe-b198-6369f25bb794@fc34.org
+UID:a4cb35c2-a134-43e7-a1cb-0f44a9710172@a4cb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>191</em> -    84 km (grand)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – VC – ST ONEN LA CHLLE – VC – GAËL – D30 – D303 – ST BRIEUC DE MAURON – à gauche à l’entrée du bourg et 2ème à droite D134 – Le Bois de la Roche – à gauche et à droite D134 – NEANT/YVEL – à gauche dans le bourg puis la derniére à droite VC (direction Paimpont) – traverser D141 – Le Perthuis Néanti – à gauche Folle Pensée – à droite D141 – La Saudrais – à droite D141 – CONCORET – à droite D2 – D141 – Chau de Comper – D31 – ST MALON/MEL – D31 – ST GONLAY – D31 – IFFENDIC – D61 – MONTAUBAN<hr>\n<em>192</em> -    70 km (moyen)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – VC – ST ONEN LA CHLLE – VC – GAËL – D30 – D303 – ST BRIEUC DE MAURON – à gauche à l’entrée du bourg D2 – MAURON – D2 – CONCORET – D2 – La Loriette – D141 – Chau de Comper – D31 – ST MALON/MEL – D31 – ST GONLAY – D31 – IFFENDIC – D61 – MONTAUBAN<hr>\n<em>193</em> -    52 km (petit)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – VC – ST ONEN LA CHLLE – VC – GAËL – à gauche et à droite D773 (direction Paimpont) – La Loriette – à gauche D141 – Chau de Comper – D31 – ST MALON/MEL – D31 – ST GONLAY – D31 – IFFENDIC – D61 – MONTAUBAN<hr>\n
@@ -323,7 +324,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250913T120000Z
 SUMMARY:OCM Cyclo: 191 -  84 km
-UID:5e76590b-c3d5-4aa4-9f03-9d7b489a6f97@5e76.org
+UID:a01a004e-b896-4095-9bc5-c073883d791b@a01a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>131</em> -    81 km (grand)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – ST MEEN LE GD – D220 – D66 – LE LOSCOUËT/MEU – D66 (direction Illifaut) – 1ère à droite VC (direction Trémorel) – traverser D764 – TREMOREL – D52 (direction Lanrelas) – Les Treize Chênes – à gauche D76 – ST LAUNEUC – D 6 (direction St Vran) – 2ème à droite D16 – MERILLAC – D16 – EREAC – D46 – LANRELAS – D46 – PLUMAUGAT – D46 (direction Caulnes) – à droite D712 – ST JOUAN DE L’ISLE – D712 – D59 – QUEDILLAC – à gauche D220 – MEDREAC – D61 – MONTAUBAN\nhttps://www.openrunner.com/route-details/5854318<hr>\n<em>132</em> -    60 km (moyen)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – ST MEEN LE GD – D220 - D66 – LE LOSCOUËT/MEU – D66 (direction Illifaut) – 1ère à droite VC (direction Trémorel) – traverser D764 – TREMOREL – D52 (direction Lanrelas) – Les Treize Chênes – tout droit D52 – LANRELAS – D46 – PLUMAUGAT – D46 (direction Caulnes) – à droite D712 – ST JOUAN DE L’ISLE – D712 – D59 – QUEDILLAC – à gauche D220 – MEDREAC – D61 – MONTAUBAN<hr>\n<em>133</em> -    47 km (petit)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – ST MEEN LE GD – D125 – D19 – PLUMAUGAT – D46 (direction Caulnes) – à droite D712 – ST JOUAN DE L’ISLE – D712 – D59 – QUEDILLAC – à gauche D220 – MEDREAC – D61 – MONTAUBAN<hr>\n
@@ -332,7 +333,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20250927T120000Z
 SUMMARY:OCM Cyclo: 131 -  81 km
-UID:f26aa462-368d-4f84-bee2-02d4b5a0583a@f26a.org
+UID:b8543446-b3e0-45de-8524-a30f6bb46d79@b854.org
 URL:https://www.openrunner.com/route-details/5854318
 END:VEVENT
 BEGIN:VEVENT
@@ -342,7 +343,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251004T120000Z
 SUMMARY:OCM Cyclo: 511 -  79 km
-UID:a28be069-98b2-4b8d-b4c0-ed27a132b019@a28b.org
+UID:32b62a50-64a4-496c-a2cd-32c06da2e7e9@32b6.org
 URL:https://www.openrunner.com/route-details/5800792
 END:VEVENT
 BEGIN:VEVENT
@@ -352,7 +353,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251011T120000Z
 SUMMARY:OCM Cyclo: 561 -  74 km
-UID:d96f0e4a-f01a-4e71-8ee2-baaadccf4e11@d96f.org
+UID:c1473714-de81-4952-b8b4-44701d17d5d2@c147.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>551</em> -    73 km (grand)\n\nMONTAUBAN – D61 – D261 – ST UNIAC – D261 – à gauche D31 (direction Bédée) – Le Bois de Pellan – à droite D62 – LA NOUAYE – D62 (direction Montfort) puis tout droit VC – Blavon – BEDEE (centre) – D31 (direction Pleumeleuc) – au rond point avant 4 voies\, tout droit (direction Rennes) et aussitôt à droite (direction Breteil) – à droite D68 – BRETEIL – à gauche D125 – L’HERMITAGE – à droite D287 – MORDELLES – D34 – CINTRE – à gauche D35 – à droite D62 – TALENSAC – à gauche D35 (direction Monterfil) – à gauche D363 – MONTERFIL – à droite D63 (direction Iffendic) – Les 4 Routes d’Iffendic – D63 (direction Iffendic) – à droite D263 – Le Valet – à gauche D30 et aussitôt à droite VC (direction La Nouaye) – Pintillac – VC – à gauche D125 – D61 – MONTAUBAN<hr>\n<em>552</em> -    59 km (moyen)\n\nMONTAUBAN – D61 – D261 – ST UNIAC – D261 – à gauche D31 (direction Bédée) – Le Bois de Pellan – à droite D62 – LA NOUAYE – D62 (direction Montfort) puis tout droit VC – Blavon – BEDEE (centre) – D31 (direction Pleumeleuc) – au rond point avant 4 voies\, tout droit (direction Rennes) et aussitôt à droite (direction Breteil) – à droite D68 – BRETEIL – à droite D125 – MONTFORT/MEU – D62 – TALENSAC – à droite D35 (direction Monterfil) – à gauche D363 – MONTERFIL – à droite D63 (direction Iffendic) – Les 4 Routes d’Iffendic – D63 (direction Iffendic) – à droite D263 – Le Valet – à gauche D30 et aussitôt à droite VC (direction La Nouaye) – Pintillac – à gauche D125 – D61 – MONTAUBAN\nhttps://www.openrunner.com/route-details/10707562<hr>\n<em>553</em> -    40 km (petit)\n\nMONTAUBAN – D61 – D261 – ST UNIAC – D261 – à gauche D31 (direction Bédée) – Le Bois de Pellan – à droite D62 – LA NOUAYE – D62 (direction Montfort) puis tout droit VC – Blavon – BEDEE (centre) – D31 (direction Pleumeleuc) - au rond point avant 4 voies\, tout droit (direction Rennes) et aussitôt à droite (direction Breteil) – à droite D68 – BRETEIL – à droite D125 – MONTFORT/MEU – D30 (direction Iffendic) – à droite VC (direction La Nouaye) – Pintillac – à gauche D125 – D61 – MONTAUBAN<hr>\n
@@ -361,7 +362,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251018T120000Z
 SUMMARY:OCM Cyclo: 551 -  73 km
-UID:b2a1d5a6-80e5-4dfd-a494-2802d63deaf7@b2a1.org
+UID:418517e9-c990-4ff5-94a2-6a025ff49f79@4185.org
 URL:https://www.openrunner.com/route-details/10707562
 END:VEVENT
 BEGIN:VEVENT
@@ -371,7 +372,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251025T120000Z
 SUMMARY:OCM Cyclo: 556 -  73 km
-UID:0281c605-6b73-4a64-8232-ba27a1b77f81@0281.org
+UID:ee53c58c-d507-4108-bd54-cc2a56313009@ee53.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>611</em> -    70 km (grand)\n\nMONTAUBAN – D28 – ROMILLE – D28 – GEVEZE – D28 – LA MEZIERE – D28 – MELESSE – à gauche D82 – MONTREUIL LE GAST – D82 – GUIPEL – à gauche D221 – HEDE – D80 – ST GONDRAN – D80 – LANGAN – D25 – ROMILLE – D28 – MONTAUBAN\nhttps://www.openrunner.com/route-details/8385412<hr>\n<em>612</em> -    56 km (moyen)\n\nMONTAUBAN – D28 – ROMILLE – D28 – GEVEZE – D28 – LA MEZIERE – D28 (direction Melesse) – 1ère à gauche D425 – MONTREUIL LE GAST – à gauche D25 – VIGNOC – D25 – LANGOUËT – D25 – LANGAN – D25 – ROMILLE – D28 – MONTAUBAN<hr>\n<em>613</em> -    42 km (petit)\n\nMONTAUBAN – D28 – ROMILLE – D28 (direction Gévezé) – à gauche après carrefour de la Croix des Trois Evêchés\, D80 – LANGAN – D25 – ROMILLE – D28 – MONTAUBAN<hr>\n
@@ -380,7 +381,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251108T130000Z
 SUMMARY:OCM Cyclo: 611 -  70 km
-UID:98ffec7a-48e4-4c86-8485-e14353ba0268@98ff.org
+UID:bb31f49b-7b5f-41e4-bbcc-9076aa03c04c@bb31.org
 URL:https://www.openrunner.com/route-details/8385412
 END:VEVENT
 BEGIN:VEVENT
@@ -390,7 +391,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251115T130000Z
 SUMMARY:OCM Cyclo: 616 -  70 km
-UID:b3667c12-6734-4c49-958e-99fba943e827@b366.org
+UID:12c8aaca-34d3-40ce-823d-16d18a69eb2f@12c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>61</em> -    69 km (grand)\n\nMONTAUBAN – D71 – LANDUJAN – D62 – ST PERN – D20 – D12 – PLOUASNE – à droite VC – LE QUIOU – D26 – D39 – EVRAN – D78 – D11 – TREVERIEN – D11 – S T DOMINEUC – à droite après les feux D11 – QUEBRIAC – D81 – TINTENIAC – D20 (direction Bécherel) – à gauche VC – LES IFFS – à droite VC – à gauche D79 – CARDROC – à droite D220 – à droite D27 – à gauche D220 – MINIAC S/S BECHEREL – D220 – à gauche D70 – IRODOUËR – D221 (direction La Chlle du Lou) – D62 – La Saudraie – D262 – MONTAUBAN\nhttps://www.openrunner.com/route-details/9342291<hr>\n<em>62</em> -    55 km (moyen)\n\nMONTAUBAN – D71 – LANDUJAN – D62 – ST PERN – D20 – D12 – PLOUASNE – à droite VC – LE QUIOU – D26 – D39 – EVRAN – D78 – D11 – TREVERIEN – D79 (direction Trimer) – traverser D13 – Rollée – à droite VC – D70 – ST THUAL – D70 – LONGAULNAY – D70 – à gauche D68 – à droite D20 – BECHEREL – à gauche D70 – IRODOUËR – D221 (direction La Chlle du Lou) – D62 – La Saudraie – D262 – MONTAUBAN<hr>\n<em>63</em> -    39 km (petit)\n\nMONTAUBAN – D71 – LANDUJAN – D71 (direction Bécherel) – à droite D220 – MINIAC S/S BECHEREL – D220 – à droite D27 – à gauche D220 – CARDROC – à gauche D79 – à droite VC – LES IFFS – à droite D221 – à gauche D27 – aussitôt à droite D221 – IRODOUËR – D221 (direction La Chlle du Lou) – D62 – La Saudraie – D262 – MONTAUBAN<hr>\n
@@ -399,7 +400,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251122T130000Z
 SUMMARY:OCM Cyclo: 61 -  69 km
-UID:2f6da227-0d9d-423c-abfb-eb33a161b287@2f6d.org
+UID:98724815-da35-4ae1-9d99-ad31835d8962@9872.org
 URL:https://www.openrunner.com/route-details/9342291
 END:VEVENT
 BEGIN:VEVENT
@@ -409,7 +410,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251129T130000Z
 SUMMARY:OCM Cyclo: 66 -  69 km
-UID:0bffb98b-fa06-44b4-9da9-fdf068d14a27@0bff.org
+UID:e623d556-c308-48b0-bd29-5b3818ac2a54@e623.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>691</em> -    65 km (grand)\n\nMONTAUBAN – D61 – MEDREAC – à gauche D220 – QUEDILLAC – D59 – D712 – ST JOUAN DE L’ISLE – D712 – à gauche D46 – PLUMAUGAT – D46 – LANRELAS – D61 (direction St Launeuc) – à gauche D76 (direction St Meen) – Les Treize Chênes – à droite D52 – TREMOREL – à droite à l’église et 1ère à gauche – VC (direction Le Loscouët) – traverser D764 – VC (direction Les Buissonnets) – après 2 km\, sur la gauche – LE LOSCOUËT/MEU – D66 – D220 – ST MEEN LE GD – D125 – BOISGERVILLY – D61 – MONTAUBAN\nhttps://www.openrunner.com/route-details/8336089<hr>\n<em>692</em> -    53 km (moyen)\n\nMONTAUBAN – D61 – MEDREAC – à gauche D220 – QUEDILLAC – D59 – D712 – ST JOUAN DE L’ISLE – à gauche D766 (direction St Méen) – 1 ère à droite (direction Bénin) – BENIN – à droite VC (direction Plumaugat) – à droite D19 (La Gigondais) – PLUMAUGAT – D46 (direction Lanrelas) et aussitôt à gauche VC – La Gautraie – D764 (direction St Méen) – passer sous 4 voies – au rond point à gauche (direction St Méen par route réservée aux vélos) – à gauche D220 (direction St Méen) – ST MEEN LE GD – D125 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n<em>693</em> -    38 km (petit)\n\nMONTAUBAN – D61 – MEDREAC – à gauche D220 – QUEDILLAC – D220 (direction St Méen) – La Prévostais – à gauche D166 (direction St Méen) – au rond point entrée St Méen tout droit\, D125 – BOISGERVILLY – D61 – MONTAUBAN<hr>\n
@@ -418,7 +419,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251206T130000Z
 SUMMARY:OCM Cyclo: 691 -  65 km
-UID:3306f032-e2e5-4c5d-8b4b-2c77fbd4d15d@3306.org
+UID:f15745e1-79ac-41f5-97ea-aaf47d41185e@f157.org
 URL:https://www.openrunner.com/route-details/8336089
 END:VEVENT
 BEGIN:VEVENT
@@ -428,7 +429,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251213T130000Z
 SUMMARY:OCM Cyclo: 571 -  68 km
-UID:0ba85198-1446-4885-98d4-37d37a71e7b1@0ba8.org
+UID:29350cae-4eca-452c-a95b-b55685df5e28@2935.org
 URL:https://www.openrunner.com/route-details/6780080
 END:VEVENT
 BEGIN:VEVENT
@@ -438,7 +439,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251220T130000Z
 SUMMARY:OCM Cyclo: 431 -  66 km
-UID:3969d643-fff9-4272-bf5b-0c7a6a501c91@3969.org
+UID:30933d8b-c9fb-4703-95b3-860293a216cd@3093.org
 URL:https://www.openrunner.com/route-details/5767096
 END:VEVENT
 BEGIN:VEVENT
@@ -448,7 +449,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20251227T130000Z
 SUMMARY:OCM Cyclo: 686 -  63 km
-UID:43d92ce2-d8bf-425f-83d8-6138f3a15ca8@43d9.org
+UID:9363ad61-5e2a-4e77-8c62-1ae4ab3a42e1@9363.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>16</em> -    47 km (grand)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – VC – ST ONEN LA CHLLE – VC - GAËL - D773 (direction Paimpont) et 1ère à gauche VC - D31 - ST MALON/MEL - D71 - ST MAUGAN - D71 - BOISGERVILLY - D61 - MONTAUBAN<hr>\n<em>17</em> -    41 km (moyen)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – VC – ST ONEN LA CHLLE – D59 - MUEL - D59 - D31 - ST MALON/MEL – D31 - D71 - ST MAUGAN - D71 - BOISGERVILLY - D61 - MONTAUBAN<hr>\n<em>18</em> -    31 km (petit)\n\nMONTAUBAN – La Brohinière – D28 – D59 – LE CROUAIS – D59 – VC – ST ONEN LA CHLLE – D59 (direction Muel) - à gauche VC (direction La Duchée/Fontainguy) - à gauche D71 - BOISGERVILLY - D61 - MONTAUBAN<hr>\n
@@ -457,7 +458,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20260103T130000Z
 SUMMARY:OCM Cyclo: 16 -  47 km
-UID:fc290e16-63a5-4039-86a1-66ed848b2770@fc29.org
+UID:7b279c70-85ea-4ba1-9ba6-ec397f7c213f@7b27.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>31</em> -    51 km (grand)\n\nMONTAUBAN – D61 – IFFENDIC – D30 – MONTFORT/MEU – D125 – BRETEIL – D125 – L’HERMITAGE\, à gauche avant le bourg D21 – ST GILLES – D21 – ROMILLE – D28 – MONTAUBAN\nhttps://www.openrunner.com/route-details/10863286<hr>\n<em>32</em> -    41 km (moyen)\n\nMONTAUBAN – D61 – IFFENDIC – D30 – MONTFORT/MEU – D125 (direction Breteil) – La Grande Porte – à gauche VC (direction Bédée) – au stop avant Bédée\, à droite D68 – PLEUMELEUC – D68 – ROMILLE – D28 – MONTAUBAN<hr>\n<em>33</em> -    36 km (petit)\n\nMONTAUBAN – D61 – IFFENDIC – D30 – MONTFORT/MEU – D125 (direction Breteil) – La Grande Porte – à gauche VC – BEDEE – D72 (direction Irodouër) – Tournebride – à gauche D28 – MONTAUBAN<hr>\n
@@ -466,7 +467,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20260110T130000Z
 SUMMARY:OCM Cyclo: 31 -  51 km
-UID:cb220e70-1660-4cc1-a346-9b0cfd6ba601@cb22.org
+UID:852c8099-d4ca-4172-a513-f786ee2a38c4@852c.org
 URL:https://www.openrunner.com/route-details/10863286
 END:VEVENT
 BEGIN:VEVENT
@@ -476,7 +477,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20260117T130000Z
 SUMMARY:OCM Cyclo: 751 -  53 km
-UID:9cc60110-1d7e-44fb-8368-9107f28fd4b7@9cc6.org
+UID:44317bc6-212b-4419-8475-e1d721105cc3@4431.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<em>581</em> -    56 km (grand)\n\nMONTAUBAN – D71 – LANDUJAN – D71 (direction Bécherel) – à droite D220 – traverser D70 – D220 – MINIAC S/S BECHEREL – à droite D68 (direction Romillé) – à gauche D221 – à droite VC – LANGAN – D80 (direction Gévezé) – 1ère à droite VC – traverser D28 – D231 (direction Parthenay de Bgne) – à droite avant le bourg D31 – traverser D21 – D31 – PLEUMELEUC – D68 – D31 – BEDEE (centre) – D72 (direction Montfort) – 1ère à droite VC (direction La Nouaye) – Blavon – VC – D62 – LA NOUAYE – à gauche VC – à droite D125 (direction Boisgervilly) – à droite D61 – MONTAUBAN\nhttps://www.openrunner.com/route-details/5684117<hr>\n<em>582</em> -    46 km (moyen)\n\nMONTAUBAN – D71 – LANDUJAN – D71 (direction Bécherel) – à droite D220 – traverser D70 – D220 – MINIAC S/S BECHEREL – à droite D68 (direction Romillé) – à droite D221 – IRODOUËR – à gauche D72 – BEDEE (centre) – D72 (direction Montfort) – 1ère à droite VC (direction La Nouaye) – Blavon – VC – D62 – LA NOUAYE – à gauche VC – à droite D125 (direction Boisgervilly) – à droite D61 – MONTAUBAN<hr>\n<em>583</em> -    35 km (petit)\n\nMONTAUBAN – D71 – LANDUJAN – à droite et aussitôt à gauche D21 – IRODOUËR – à droite D72 – BEDEE (centre) – D72 (direction Montfort) – 1ère à droite VC (direction La Nouaye) – Blavon – VC – D62 – LA NOUAYE – à gauche VC – à droite D125 (direction Boisgervilly) – à droite D61 – MONTAUBAN<hr>\n
@@ -485,7 +486,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20260124T130000Z
 SUMMARY:OCM Cyclo: 581 -  56 km
-UID:7e588aa9-5038-475d-83d4-8c60d71e90da@7e58.org
+UID:dc8e4b1d-ce1c-4380-ad54-27bee65b882f@dc8e.org
 URL:https://www.openrunner.com/route-details/5684117
 END:VEVENT
 BEGIN:VEVENT
@@ -495,7 +496,7 @@ GEO:48.198760;-2.056500
 LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
 DTSTART:20260131T130000Z
 SUMMARY:OCM Cyclo: 741 -  57 km
-UID:316b0209-f846-4f9f-aff1-6817ba242a34@316b.org
+UID:6990e39e-3786-41b5-b636-c2a8f3a621e7@6990.org
 URL:https://www.openrunner.com/route-details/4451518
 END:VEVENT
 END:VCALENDAR
