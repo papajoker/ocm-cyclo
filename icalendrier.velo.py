@@ -149,9 +149,11 @@ with open(CALENDRIER_FICHIER, "r") as fp:
         event.description = desc  # f"{row['grand']} - {parcour['km']:>6} (grand)\n\n{parcour['parcours']}"
         # FIXED decalage heure ?
         event.begin = dt.replace(hour=14, tzinfo=TZ_PARIS)
+        event.end = dt.replace(hour=16, minute=30, tzinfo=TZ_PARIS)
         if jour == "dimanche":
             event.begin = dt.replace(hour=9, tzinfo=TZ_PARIS)
-        event.duration = dict({"hours": 2, "minutes": 30})
+            event.end = dt.replace(hour=11, minute=30, tzinfo=TZ_PARIS)
+        # event.duration = dict({"hours": 2, "minutes": 30})
         event.location = "Montauban-de-Bretagne, 35360 Montauban-de-Bretagne, France"
         event.geo = Geo(48.19876, -2.0565)  # used https://www.coordonnees-gps.fr/
 
