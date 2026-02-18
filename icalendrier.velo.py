@@ -1,13 +1,13 @@
 #!/usr/bin/env -S uv run --script
 
 # /// script
-# requires-python = ">=3.12"
+# requires-python = "<=3.11"
 # dependencies = [
 #     "arrow",
 #     "ics",
 # ]
 # [tool.uv]
-# exclude-newer = "2026-12-11T00:00:00Z"
+# exclude-newer = "2025-12-11T00:00:00Z"
 # ///
 
 import sys
@@ -24,8 +24,12 @@ from ics.alarm import EmailAlarm
 from ics.attendee import Organizer, Person
 
 
-PARCOURS_FICHIER = Path(__file__).parent / "datas" / "parcours.2009.2025.csv"  # no;km;parcours
-CALENDRIER_FICHIER = Path(__file__).parent / "datas" / "2025.calendrier.velo.csv"  # date;grand;moyen;petit;mois
+PARCOURS_FICHIER = (
+    Path(__file__).parent / "datas" / "parcours.2026.csv"
+)  # no;km;parcours
+CALENDRIER_FICHIER = (
+    Path(__file__).parent / "datas" / "2026.calendrier.velo.csv"
+)  # date;grand;moyen;petit;mois
 GPS_FICHIER = Path(__file__).parent / "datas" / "openrunner.csv"
 
 tz_str = "Europe/Paris"
@@ -55,8 +59,17 @@ cal_name = f"OCM Cyclo {' '.join(sys.argv[1:]).replace('--', '').strip()}"
 
 calendar = Calendar(creator="-//OCM//fr")
 calendar.extra.append(ContentLine(name="X-WR-CALNAME", value=cal_name))
-calendar.extra.append(ContentLine(name="X-WR-CALDESC", value=f"Calendier des sorties classiques 2025 {cal_name}"))
-calendar.extra.append(ContentLine(name="LOCATION", value="Montauban-de-Bretagne, 35360 Montauban-de-Bretagne, France"))
+calendar.extra.append(
+    ContentLine(
+        name="X-WR-CALDESC", value=f"Calendier des sorties classiques 2025 {cal_name}"
+    )
+)
+calendar.extra.append(
+    ContentLine(
+        name="LOCATION",
+        value="Montauban-de-Bretagne, 35360 Montauban-de-Bretagne, France",
+    )
+)
 
 calendar.extra.append(ContentLine(name="CALSCALE", value="GREGORIAN"))
 calendar.extra.append(ContentLine(name="X-WR-TIMEZONE", value=tz_str))
@@ -143,7 +156,9 @@ with open(CALENDRIER_FICHIER, "r") as fp:
                 parc = {"km": "?   ", "parcours": "?", "gps": ""}
             gps = ""
             if parc.get("gps", ""):
-                gps = f"\nhttps://www.openrunner.com/route-details/{parc.get('gps', '')}"
+                gps = (
+                    f"\nhttps://www.openrunner.com/route-details/{parc.get('gps', '')}"
+                )
                 event.url = gps[1:]
             desc = f"{desc}<em>{parcour_id}</em> - {parc['km']:>8} ({duree})\n\n{parc['parcours']}{gps}<hr>\n"
         event.description = desc  # f"{row['grand']} - {parcour['km']:>6} (grand)\n\n{parcour['parcours']}"
@@ -164,7 +179,10 @@ with open(CALENDRIER_FICHIER, "r") as fp:
 
 calendar.events = sorted(calendar.events, key=lambda x: x.begin, reverse=False)
 
-fichier = Path(__file__).parent / f"ocm-cyclo.{' '.join(sys.argv[1:]).replace('--', '').strip()}.ics"
+fichier = (
+    Path(__file__).parent
+    / f"ocm-cyclo.{' '.join(sys.argv[1:]).replace('--', '').strip()}.ics"
+)
 with open(fichier, "w") as f:
     f.writelines(calendar.serialize_iter())
 
