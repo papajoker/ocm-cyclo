@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:OCM Cyclo TEST
+X-WR-CALDESC:Calendier des sorties classiques 2025 OCM Cyclo mercredi TEST
+LOCATION:Montauban-de-Bretagne, 35360 Montauban-de-Bretagne, France
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Europe/Paris
+METHOD:PUBLISH
+NAME:OCM Cyclo mercredi TEST
+VERSION:2.0
+PRODID:-//OCM//fr
+BEGIN:VEVENT
+DESCRIPTION:<em>696</em> -    65 km (grand)\n\nMONTAUBAN – D61 – BOISGERVILLY – D125 – ST Méen LE GRAND – D220 - D66 – LE LOSCOUËT/ MEU – à droite (direction Trémorel) et à gauche dans le bourg - à gauche avant étang VC (direction Trémorel) – traverser D764 – TREMOREL - D52 - Les Treize Chênes - à gauche D76 (direction St Launeuc) - à droite D61 - LANRELAS - D46 - PLUMAUGAT - D46 (direction Caulnes) - à droite D712 – ST JOUAN DE L'ISLE - D712 – D59 - QUEDILLAC - D220 - MEDREAC - D61 - MONTAUBAN.\nhttps://www.openrunner.com/route-details/9359692<hr>\n<em>697</em> -    53 km (moyen)\n\nMONTAUBAN – D61 – BOISGERVILLY – D125 – ST Méen LE GRAND – D220 (direction Le Loscouët) – à droite après passage au-dessus 4 voies (direction Trémorel par route réservée aux vélos) – au rond point D764 (direction Plumaugat) – passer sous 4 voies – à droite VC (direction Plumaugat) – La Gautraie – PLUMAUGAT – à droite D19 (direction St Méen) – après 1\,9 km au niveau de La Gigondais)\, à gauche VC (direction Bénin) – BENIN – 1ère à gauche VC (direction St Jouan de l’Isle) – à gauche D766 – ST JOUAN DE L’ISLE – à droite D712 – D59 - QUEDILLAC - D220 - MEDREAC - D61 - MONTAUBAN.<hr>\n<em>698</em> -    38 km (petit)\n\nMONTAUBAN – D61 – BOISGERVILLY – D125 (direction St Méen) – au rond point entrée St Méen\, tout droit D166 (direction St Jouan) – La Prévostais – à droite D220 – QUEDILLAC - D220 - MEDREAC - D61 - MONTAUBAN.<hr>\n
+DTEND:20260218T153000Z
+GEO:48.198760;-2.056500
+LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
+DTSTART:20260218T130000Z
+SUMMARY:OCM Cyclo: 696 -  65 km
+UID:b4ca23a8-c55c-45ac-b889-64da78484df7@b4ca.org
+URL:https://www.openrunner.com/route-details/9359692
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<em>61</em> -    69 km (grand)\n\nMONTAUBAN – D71 – LANDUJAN – D62 – ST PERN – D20 – D12 – PLOUASNE – à droite VC – LE QUIOU – D26 – D39 – EVRAN – D78 – D11 – TREVERIEN – D11 – ST DOMINEUC – à droite après les feux D11 – QUEBRIAC – D81 – TINTENIAC – D20 (direction Bécherel) – à gauche VC – LES IFFS – à droite VC – à gauche D79 – CARDROC – à droite D220 – à droite D27 – à gauche D220 – MINIAC S/S BECHEREL – D220 – à gauche D70 – IRODOUËR – D221 (direction La CHAPELLE du Lou) – D62 – La Saudraie – D262 – MONTAUBAN.\nhttps://www.openrunner.com/route-details/9342291<hr>\n<em>62</em> -    55 km (moyen)\n\nMONTAUBAN – D71 – LANDUJAN – D62 – ST PERN – D20 – D12 – PLOUASNE – à droite VC – LE QUIOU – D26 – D39 – EVRAN – D78 – D11 – TREVERIEN – D79 (direction Trimer) – traverser D13 – Rollée – à droite VC – D70 – ST THUAL – D70 – LONGAULNAY – D70 – à gauche D68 – à droite D20 – BECHEREL – à gauche D70 – IRODOUËR – D221 (direction La CHAPELLE du Lou) – D62 – La Saudraie – D262 – MONTAUBAN.<hr>\n<em>63</em> -    39 km (petit)\n\nMONTAUBAN – D71 – LANDUJAN – D71 (direction Bécherel) – à droite D220 – MINIAC S/S BECHEREL – D220 – à droite D27 – à gauche D220 – CARDROC – à gauche D79 – à droite VC – LES IFFS – à droite D221 – à gauche D27 – aussitôt à droite D221 – IRODOUËR – D221 (direction La CHAPELLE du Lou) – D62 – La Saudraie – D262 – MONTAUBAN.<hr>\n
+DTEND:20260225T153000Z
+GEO:48.198760;-2.056500
+LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
+DTSTART:20260225T130000Z
+SUMMARY:OCM Cyclo: 61 -  69 km
+UID:e8ccd5e9-5dfd-460d-8109-f622dd8afdae@e8cc.org
+URL:https://www.openrunner.com/route-details/9342291
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<em>616</em> -    70 km (grand)\n\nMONTAUBAN – D28 – ROMILLE – D25 - LANGAN - D80 - ST GONDRAN - D80 - HEDE - à droite D221 - Guipel - à droite D82 - MONTREUIL LE GAST - D82 - MELESSE - à droite D28 - LA MEZIERE - D28 - GEVEZE - D28 - ROMILLE - D28 - MONTAUBAN.<hr>\n<em>617</em> -    56 km (moyen)\n\nMONTAUBAN – D28 – ROMILLE – D25 - LANGAN - D25 - LANGOUËT - D25 - VIGNOC - D25 - MONTREUIL LE GAST - 1ère à droite D425 - à droite D28 - LA MEZIERE - D28 - GEVEZE - D28 - ROMILLE - D28 - MONTAUBAN.<hr>\n<em>618</em> -    42 km (petit)\n\nMONTAUBAN – D28 – ROMILLE – D25 - LANGAN – à droite D80 (direction Gévezé) – continuer tout droit sur la D80 jusqu’au croisement avec la D28 – à gauche D28 - ROMILLE - D28 - MONTAUBAN.<hr>\n
+DTEND:20260304T153000Z
+GEO:48.198760;-2.056500
+LOCATION:Montauban-de-Bretagne\, 35360 Montauban-de-Bretagne\, France
+DTSTART:20260304T130000Z
+SUMMARY:OCM Cyclo: 616 -  70 km
+UID:03d37cfa-2568-468f-a167-c85346e698b2@03a3.org
+END:VEVENT
+END:VCALENDAR
